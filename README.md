@@ -1,6 +1,6 @@
 ## Indian Startup Investment EDA
 
-This repository contains an exploratory data analysis (EDA) of Indian startup funding data. The project cleans mixed-format funding values, parses dates, detects and categorizes startups, investors, and sectors, and derives summary statistics and visual insights.
+This repository contains an exploratory data analysis (EDA) of Indian startup funding data. The project cleans mixed-format funding values, parses dates, detects and categorizes startups, investors, and sectors, and derives summary statistics with visual insights.
 
 ## Key EDA Features
 
